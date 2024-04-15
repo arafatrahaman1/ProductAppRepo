@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProductsApp",
+    "\\ProductsApp.Tests",
+    "\\ProductsApp\\Controllers",
+    "\\ProductsApp\\Models"
+  ],
+  "SelectedNode": "\\ProductsApp\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}
